@@ -13,4 +13,4 @@ hello shady, hello git!
 hello shady, hello git!
 hello shady, hello git!
 hello shady, hello git! master test
-hello shady, hello git!
+hello shady, hello git! hot-fix test
